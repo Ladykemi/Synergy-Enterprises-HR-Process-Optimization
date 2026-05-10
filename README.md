@@ -114,5 +114,6 @@ This approach reduced implementation risk while enabling incremental business va
 
 
 [HR Process Optimization at Synergy Enterprises.pdf](https://github.com/user-attachments/files/27572756/HR.Process.Optimization.at.Synergy.Enterprises.pdf)
+
 [HR Process Optimization at Synergy Enterprises.pptx](https://github.com/user-attachments/files/27573411/HR.Process.Optimization.at.Synergy.Enterprises.pptx)
 
