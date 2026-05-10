@@ -29,6 +29,15 @@ Recommended implementing a centralized cloud-based HR management platform to:
 - Support strategic workforce planning
 - Improve employee engagement and visibility
 
+
+## 💰 Business Impact
+
+Projected outcomes included:
+- 50% reduction in payroll-related errors
+- 30–40% HR operational efficiency improvement
+- Estimated annual savings of $1.2 million
+- Improved workforce visibility and compliance
+
 <img width="1155" height="652" alt="SMART Business Objectives" src="https://github.com/user-attachments/assets/0eb0d680-6473-406b-acaf-13bdcb37d8c1" />
 
 ## 🛠Business Analysis Techniques Used
